@@ -1,0 +1,15 @@
+C:\Users\Тионс\Desktop\HW8\hwcsh8\bin\Debug\net7.0\hwcsh8.exe
+C:\Users\Тионс\Desktop\HW8\hwcsh8\bin\Debug\net7.0\hwcsh8.deps.json
+C:\Users\Тионс\Desktop\HW8\hwcsh8\bin\Debug\net7.0\hwcsh8.runtimeconfig.json
+C:\Users\Тионс\Desktop\HW8\hwcsh8\bin\Debug\net7.0\hwcsh8.dll
+C:\Users\Тионс\Desktop\HW8\hwcsh8\bin\Debug\net7.0\hwcsh8.pdb
+C:\Users\Тионс\Desktop\HW8\hwcsh8\obj\Debug\net7.0\hwcsh8.csproj.AssemblyReference.cache
+C:\Users\Тионс\Desktop\HW8\hwcsh8\obj\Debug\net7.0\hwcsh8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тионс\Desktop\HW8\hwcsh8\obj\Debug\net7.0\hwcsh8.AssemblyInfoInputs.cache
+C:\Users\Тионс\Desktop\HW8\hwcsh8\obj\Debug\net7.0\hwcsh8.AssemblyInfo.cs
+C:\Users\Тионс\Desktop\HW8\hwcsh8\obj\Debug\net7.0\hwcsh8.csproj.CoreCompileInputs.cache
+C:\Users\Тионс\Desktop\HW8\hwcsh8\obj\Debug\net7.0\hwcsh8.dll
+C:\Users\Тионс\Desktop\HW8\hwcsh8\obj\Debug\net7.0\refint\hwcsh8.dll
+C:\Users\Тионс\Desktop\HW8\hwcsh8\obj\Debug\net7.0\hwcsh8.pdb
+C:\Users\Тионс\Desktop\HW8\hwcsh8\obj\Debug\net7.0\hwcsh8.genruntimeconfig.cache
+C:\Users\Тионс\Desktop\HW8\hwcsh8\obj\Debug\net7.0\ref\hwcsh8.dll
